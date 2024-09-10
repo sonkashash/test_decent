@@ -132,14 +132,18 @@ section>p {
 .tech-stack__icons {
     display: flex;
     flex-wrap: wrap;
-    gap: 67px;
+    align-items: start;
     justify-content: space-between;
 }
 
 .tech-stack__icons img {
+    object-fit: cover;
     display: block;
-    width: 120px;
-    height: 120px;
+    margin-right: 6%;
+    width: 100px;
+
+    margin-bottom: 67px;
+    height: auto;
 }
 
 .projects>p {
@@ -153,7 +157,7 @@ section>p {
 }
 
 .card {
-    width: 30%;
+    width: 373px;
     height: 570px;
     border-radius: 20px;
     background: #FFF;
