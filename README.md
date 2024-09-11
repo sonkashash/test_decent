@@ -1,6 +1,6 @@
 # test_decent 
-## Верстка сделана по макету Figma - https://www.dropbox.com/scl/fi/94x40ax0tkuj7w2tulymr/Frontend.paper?rlkey=fh20x86r7dv86waakt8cdlzyb&dl=0
-## Деплой https://sonkashash.github.io/test_decent/
+## Верстка сделана по [макету Figma](https://www.dropbox.com/scl/fi/94x40ax0tkuj7w2tulymr/Frontend.paper?rlkey=fh20x86r7dv86waakt8cdlzyb&dl=0)
+## [Деплой](https://sonkashash.github.io/test_decent/)
 
 ## Для развертывания приложения
 1.
